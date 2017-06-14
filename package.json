@@ -1,5 +1,5 @@
 {
-  "name": "async-http",
+  "name": "http-async",
   "version": "1.0.0",
   "description": "An async/await simple request library, no dependencies",
   "main": "index.js",
@@ -8,7 +8,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/trevorlinton/async-http.git"
+    "url": "git+https://github.com/trevorlinton/http-async.git"
   },
   "keywords": [
     "async",
@@ -20,7 +20,7 @@
   "author": "Trevor Linton",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/trevorlinton/async-http/issues"
+    "url": "https://github.com/trevorlinton/http-async/issues"
   },
-  "homepage": "https://github.com/trevorlinton/async-http#readme"
+  "homepage": "https://github.com/trevorlinton/http-async#readme"
 }

@@ -3,7 +3,7 @@
 Allows you to make http or https requests using async/await (or promise) for better flow in your code
 
 ```javascript
-let request = require('async-http')
+let request = require('http-async')
 async function go() {
 	let response = await request('get', 'https://www.google.com', null, {'accept':'*/*'}))
 	console.log(response) // {code:200, message:'OK', content:'... html ...', headers:{...}, url:'https://www.google.com'}
