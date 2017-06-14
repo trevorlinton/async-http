@@ -1,5 +1,13 @@
 # Asyncronous Request
 
+## Install
+
+```bash
+$ npm install --save http-async
+```
+
+## Example
+
 Allows you to make http or https requests using async/await (or promise) for better flow in your code
 
 ```javascript
